@@ -9,6 +9,7 @@ public class Member {
 			memberPassword,
 			name,
 			regdate,
-			birthdate;
+			birthdate,
+			memberRole;
 			
 }

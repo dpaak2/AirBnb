@@ -15,6 +15,5 @@ public class Reservation {
 	solddays,
 	hostSerial,
 	memberId,
-	resPrice
-;
+	resPrice;
 }
